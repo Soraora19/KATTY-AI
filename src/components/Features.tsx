@@ -5,23 +5,23 @@ import { DollarSign, Users, Lock, Zap } from "lucide-react";
 const features = [
   {
     icon: DollarSign,
-    title: "Zero Tax",
-    description: "No hidden fees or taxes on transactions. What you see is what you get.",
+    title: "AI-Powered Mechanics",
+    description: "$KATTY leverages artificial intelligence to create unique trading opportunities.",
   },
   {
     icon: Users,
-    title: "Community Driven",
-    description: "Governed by our passionate community of feline enthusiasts.",
+    title: "Tech-Savvy Community",
+    description: "Join a community that understands both crypto and artificial intelligence.",
   },
   {
     icon: Lock,
-    title: "LP Locked",
-    description: "Liquidity locked for 1 year, ensuring trading stability.",
+    title: "Secure & Transparent",
+    description: "Smart contract audited and liquidity locked for maximum security.",
   },
   {
     icon: Zap,
-    title: "Instant Transactions",
-    description: "Lightning-fast transfers on the Ethereum network.",
+    title: "Future-Ready",
+    description: "Built with AI integration capabilities for future developments.",
   },
 ];
 
@@ -37,7 +37,7 @@ const Features = () => {
             transition={{ duration: 0.6 }}
             className="text-3xl md:text-4xl font-display font-bold mb-4"
           >
-            Why Choose KittyCoin?
+            Why Choose $KATTY?
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -46,7 +46,7 @@ const Features = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-gray-600 max-w-2xl mx-auto"
           >
-            Built with style and security in mind, KittyCoin offers a unique blend of meme culture and serious tokenomics.
+            The perfect blend of artificial intelligence and meme culture, $KATTY is leading the next generation of cryptocurrency innovation.
           </motion.p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
