@@ -6,22 +6,22 @@ const features = [
   {
     icon: DollarSign,
     title: "AI-Powered Mechanics",
-    description: "$KATTY leverages artificial intelligence to create unique trading opportunities.",
+    description: "What do you get when you combine AI with a cat? A trading platform that always lands on its feet! 🐱",
   },
   {
     icon: Users,
     title: "Tech-Savvy Community",
-    description: "Join a community that understands both crypto and artificial intelligence.",
+    description: "Join a community where 'catching the red dot' means spotting the next big crypto trend! 🔴",
   },
   {
     icon: Lock,
     title: "Secure & Transparent",
-    description: "Smart contract audited and liquidity locked for maximum security.",
+    description: "More secure than a cat guarding its favorite box. Smart contract audited and liquidity locked! 📦",
   },
   {
     icon: Zap,
     title: "Future-Ready",
-    description: "Built with AI integration capabilities for future developments.",
+    description: "While other coins chase their tails, $KATTY is coding the future. Meow-velous, right? ⚡",
   },
 ];
 
@@ -46,7 +46,7 @@ const Features = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-gray-600 max-w-2xl mx-auto"
           >
-            The perfect blend of artificial intelligence and meme culture, $KATTY is leading the next generation of cryptocurrency innovation.
+            Because we're not just another copy cat! $KATTY combines artificial intelligence with feline finesse to create the purr-fect investment opportunity.
           </motion.p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
