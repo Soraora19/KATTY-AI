@@ -1,6 +1,6 @@
 
 import { motion } from "framer-motion";
-import { Twitter, Send } from "lucide-react";
+import { X, Send } from "lucide-react";
 
 const Banner = () => {
   return (
@@ -26,8 +26,8 @@ const Banner = () => {
           transition={{ delay: 0.3 }}
           className="flex items-center gap-2 bg-[#10B981]/20 hover:bg-[#10B981]/30 text-white px-4 py-2 rounded-full border border-[#10B981]/50 backdrop-blur-sm transition-all"
         >
-          <Twitter className="w-5 h-5" />
-          <span className="text-sm font-medium">Twitter</span>
+          <X className="w-5 h-5" />
+          <span className="text-sm font-medium">X</span>
         </motion.a>
         
         <motion.a
