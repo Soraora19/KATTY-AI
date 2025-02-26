@@ -20,7 +20,9 @@ const Banner = () => {
       {/* Social Media Buttons */}
       <div className="absolute top-6 right-6 flex gap-4">
         <motion.a
-          href="#"
+          href="https://x.com/Katty_on_solana"
+          target="_blank"
+          rel="noopener noreferrer"
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
