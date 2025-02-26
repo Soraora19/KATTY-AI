@@ -13,9 +13,9 @@ const Banner = () => {
       <img 
         src="/lovable-uploads/876b8281-bd43-42d7-930e-60652e79a35a.png"
         alt="$KATTY Banner"
-        className="w-full h-full object-cover opacity-40"
+        className="w-full h-full object-cover opacity-60"
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/90" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/40 to-black/90" />
       
       {/* Social Media Buttons */}
       <div className="absolute top-6 right-6 flex gap-4">
