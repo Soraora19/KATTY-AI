@@ -27,12 +27,12 @@ const ChartTracker = () => {
             $KATTY Price Chart
           </h2>
           <a
-            href="https://t.me/KATTY_O_SOL"
+            href="https://raydium.io/swap/?inputMint=sol&outputMint=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-[#10B981] hover:text-[#10B981]/80 transition-colors"
           >
-            <span>Track on Telegram</span>
+            <span>Trade on Raydium</span>
             <ExternalLink className="w-4 h-4" />
           </a>
         </div>
